@@ -2,9 +2,9 @@
 title: Ben Blog
 SEOTitle: Ben的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: hillbilly626@163.com
+email: 
 description: "Every failure is leading towards success."
-keyword: "跨平台,iOS, Apple, iPhone"
+keyword: "跨平台,iOS, Apple, iPhone, android, 移动开发"
 url: "http://benhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Gcourage/ben.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Gcourage/ben.github.io.git" # you code reposito
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
